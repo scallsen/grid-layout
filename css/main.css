@@ -4,6 +4,8 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
+
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
@@ -19,14 +21,14 @@ html {
 body {
   margin: 0;
 }
+html, p {
+  font-family: 'Open Sans', sans-serif;
+
+}
 
 .img-flex {
   display: block;
   width: 100%;
-}
-
-html {
-  font-family: 'Open Sans', sans-serif;
 }
 
 .testsize {
