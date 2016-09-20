@@ -28,3 +28,7 @@ body {
 html {
   font-family: 'Open Sans', sans-serif;
 }
+
+.testsize {
+  width: 80%;
+}
